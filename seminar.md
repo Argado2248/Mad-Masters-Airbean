@@ -1,6 +1,7 @@
 # AI Seminarium
 ## AI och datalogiskt tänkande
 ### 01 — Datalogiska delprocesser
+Aizo svarar mer pedagokist när ChatGPT svaren är mer fakt baserad.
 ### 02 — Från delprocesser till pseudokod
 ### 03 — Var går gränsen?
 ### 04 — Förklara kod
