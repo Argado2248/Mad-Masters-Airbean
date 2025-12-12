@@ -6,7 +6,7 @@ Aizo svarar på ett mer pedagogiskt sätt, medan ChatGPT:s svar är mer rakt-på
 ### 02 — Från delprocesser till pseudokod
 Aizo ger exempel som användaren kan påbörja arbetet. Det märks att Aizo är gjord för att lära elever processen man frågar efter istället för att ge ett konkret svar. ChatGPT ger ett konkret svar direkt med lösningen. 
 
-###Svar från AI:###
+###Svar från AI:
 Okej, låt oss tänka lite kring hur man kan bryta ned processen att göra en smörgås i de fyra delprocesserna: dekomposition, mönsterigenkänning, abstraktion och algoritmer. 😄
 1. Dekomposition
 Dekomposition innebär att bryta ned ett problem i mindre delar. Tänk på att göra en smörgås – vilka är de grundläggande stegen? Kan du dela in dem i ännu mindre steg?
@@ -17,7 +17,7 @@ Abstraktion innebär att fokusera på viktig information och ignorera irrelevant
 4. Algoritmer
 Algoritmer är en steg-för-steg-process för att lösa ett problem. Kan du formulera en specifik serie steg för att konsekvent göra en perfekt smörgås?
 Vilket steg tycker du är mest utmanande att tänka på? Eller har du några idéer på hur du skulle bryta ned något av dessa steg ytter
-###Svar klart från AI###
+###Svar klart från AI
 
 ### 03 — Var går gränsen?
 ### 04 — Förklara kod
