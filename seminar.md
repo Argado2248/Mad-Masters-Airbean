@@ -50,6 +50,8 @@ ChatGPT är bra att använda för att få idéer och brainstorma. Ett bra exmemp
 
 ### 09 — Tre största riskerna
 
+Vi skulle säga att alla tre är fallgropar. Tex. Alla kan få kod , men skillnaden är att man kan använda koden. Förstår jag inte vad CSS är eller HTML då vet jag heller inte vart man ska lägga in koden. Även exemplet på överberoende, där code along är ett gott exempel. All kod fungerar tills man har skrivit något litet fel och då kollapsar hela koden och därmed är du som person beroende av AI att koden faktiskt fungerar. Då du själv inte förstår koden eller vet vad kod är.
+
 ## AI som kodkompis
 
 ### 10 — Copilot: styrkor och svagheter
